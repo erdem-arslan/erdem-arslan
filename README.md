@@ -3,7 +3,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Programing+Student;Front+End+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50">
 </p>
 <hr/>
-<h4 align="center">I am a front end software developer in Tr. I am always running after innovations, learning and reading. I prepare designs and fictions. I produce social media content.</h4>
+<h4 align="center">I am a front end software developer in Turkey. I am always running after innovations, learning and reading. I prepare designs and fictions. I produce social media content.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erdem-arslan&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
