@@ -5,7 +5,7 @@
 <hr/>
 <h4 align="center">I am a front end software developer in Tr. I am always running after innovations, learning and reading. I prepare designs and fictions. I produce social media content.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=erdem-arslan&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 ## 🛠️ My Skills
 
