@@ -2,36 +2,36 @@
 
 
 
-### Merhaba 👋
+### Hello 👋
 
-Ben Erdem, Front End Developer'im. Bu profilimde, çalışmalarımı ve projelerimi paylaşıyorum.
+Hello! I'm Erdem, a Front-End Developer. I love writing code to enhance user experiences and crafting creative solutions. I've been working in this field for 2 years. I enjoy collaborating on new projects and diving into everything tech-related.
 
-## Kullandığım Teknolojiler 💻
+## Technologies 💻
 
-#### Programlama Dilleri
+#### Programming Languages
 - JavaScript
 - PHP
 
-#### Front-End Frameworkleri
+#### Front-End Frameworks
 - React
 - Next.js
+- TypeScript
 - Tailwind CSS
 - Bootstrap
 - Sass
 - Less
 
-#### Veritabanı Yönetimi
+#### Database Management
 - MySQL
 
-#### Araçlar ve Diğerleri
+#### Others
 - Git
 - Yarn
 
-## İletişim ☎️
+## Contact ☎️
 
-Benimle iletişime geçmek için aşağıdaki platformlardan birini kullanabilirsiniz. İşbirlikleri veya sorularınız için her zaman açığım!
+You can use one of the following platforms to contact me. I am always open for collaborations or questions!
 
-- [Web Sitesi](https://erdemarslan.net/)
+- [Website](https://erdemarslan.net/)
 - [Linkedin](https://www.linkedin.com/in/erdemarsl4n/)
 - [Twitter](https://twitter.com/erdemarsl4n/)
-- [Instagram](https://instagram.com/erdemarsl4n/)
